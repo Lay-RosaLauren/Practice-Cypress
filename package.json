@@ -1,0 +1,16 @@
+{
+  "name": "formulario-devs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Practice - Lay-RosaLauren",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
