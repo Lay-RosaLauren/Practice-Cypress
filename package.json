@@ -8,7 +8,7 @@
     "cy:open": "cypress open"
   },
   "keywords": [],
-  "author": "Practice - Lay-RosaLauren",
+  "author": "Practicing Cypress - Lay-RosaLauren",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^9.2.1"
