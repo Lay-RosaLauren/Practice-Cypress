@@ -1,3 +1,4 @@
+/// <reference types= "cypress" /> 
 describe('Form Devs', () => {
   before(() => cy.exec('rm -rf cypress/screenshots'))
   
