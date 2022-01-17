@@ -1,3 +1,4 @@
+/// <reference types= "cypress" /> 
 Cypress.Commands.add('fillFormAndSubmit', () => {
   cy.get('#nome').as('name').type('Walmyr')
   cy.get('#sobrenome').as('lastName').type('Filho')
